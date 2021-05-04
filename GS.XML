@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="GB2312"?>
 <!-- 请使用Notepad++ 来编辑当前文本 -->
 <基本配置>
-	<游戏名称>命脉测试</游戏名称>
-	<游戏官网>https://user.qzone.qq.com/9153304/infocenter</游戏官网>
-	<元宝充值>https://user.qzone.qq.com/9153304/infocenter</元宝充值>
-	<游戏退弹>https://user.qzone.qq.com/9153304/infocenter</游戏退弹>
+	<游戏名称>列表游戏名字</游戏名称>
+	<游戏官网>http://Www.MakeGs.com</游戏官网>
+	<元宝充值>http://Www.MakeGs.com</元宝充值>
+	<游戏退弹>http://Www.MakeGs.com</游戏退弹>
 	<游戏公告>http://Www.MakeGs.com/dlq_link.HTM</游戏公告>
 </基本配置>
 <游戏列表>
@@ -19,7 +19,7 @@
 <!-- expand  1展开 0不展开 -->
 	<节点 color="FF00FF00" num="3" expand="1">[九月新战区]</节点>
 	<服务器 ip="120.0.59.52" port="27004" color="FF00FFFF" ip2="45.248.9.193" port2="5118">┏------------------------------┓</服务器>
-	<服务器 ip="127.0.0.1" port="7004" color="FF00FFFF">│　 ９月６号  １５点开放测试 　│</服务器>
+	<服务器 ip="120.0.59.52" port="7004" color="FF00FFFF" ip2="45.248.9.193" port2="5118">┏------------------------------┓</服务器>
 
 
 <!-- 标签:须知  为第3个板块 -->
